@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ogawa/face-detection/openCVSamplefacedetection/build/intermediates/exploded-aar/face-detection/openCVLibrary249/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5063865eedbbcc7266d31981f48873504d4ef45c">
+        <dex dex="/Users/ogawa/face-detection/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/classes-f843585f6d51523337ed3c44572d9232023ee490.jar" />
+    </item>
+
+</items>
